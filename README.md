@@ -37,7 +37,7 @@ tabizukiを利用することで楽しい旅行計画の役に立ったり、行
 
 
 ## 設計書
-・[ER図](https://app.diagrams.net/#G1Oeq3dIbv3VDMc_4_g6iDJZVYIWyb7udw)<br>
+・ER図![tabizuki drawio](https://user-images.githubusercontent.com/106656539/182521117-f90b50e0-4662-460b-ae05-ef147a5e399c.png)<br>
 ・[テーブル定義書](https://docs.google.com/spreadsheets/d/1UC2u-qosewQDyae69rTYNQtA-eUjlb6oKlf5rIkzgLM/edit?usp=sharing)
 ## 開発環境
 - OS：Linux(CentOS)
